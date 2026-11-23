@@ -7,7 +7,7 @@ console.log(typeof age);
 
 let student={
     id:540,
-    fname:"Prasu",
+    fname:"Purush",
 }
 
 console.log(student.id);
